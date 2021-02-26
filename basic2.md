@@ -65,11 +65,13 @@
 
   やってみてくださ
 
-* てめに
+* ために
 
   * A: 何の**ために**ここへ来たのか
 
     B: あなたに会う**ために**ここへ来ました
+
+#### 第三課
 
 * たら
   * 明日暇だったら、遊びに来ませんか
@@ -87,15 +89,26 @@
 
 * だけ
 
+    **只是描述**
+
   * これだけ買いました
+* ちょっとだけお話(はなし)を聞きたいんですが
+  * これは便利**なだけ**、値段が安いからかいますた
+  * あと少しだけ待ってください
+  * https://www.sigure.tw/learn-japanese/grammar/n5/43.php
+  
 
-  * ちょっとだけお話を聞きたいんですが
+* しか...ない
 
-  https://www.sigure.tw/learn-japanese/grammar/n5/43.php
+  **强调不足**
 
+  * あと一週間(いっしゅうかん)**しかない**
 
+  * これ**しか**残ってい**ない**
 
+    ている
 
+    残る　のこる
 
 
 
@@ -238,6 +251,16 @@
 * てくれる(外→内)
 
 * てもらう(全方向OK)
+
+
+
+https://j-nihongo.com/teoku/
+
+https://www.sigure.tw/learn-japanese/
+
+https://nihongonosensei.net/
+
+https://nihongokyoshi-net.com/
 
 
 
